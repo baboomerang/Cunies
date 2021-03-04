@@ -66,12 +66,16 @@ Get live course and assignment updates from the [Blackboard REST API](https://de
 ## Low Fidelity Wireframes
 <img src="https://i.ibb.co/DLbKwrm/cunies-web-app.png" width=600>
 
-### Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
+
 ### Models
+| Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   |               |          |             |
+   |               |          |             |
+   |               |          |             |
+   |               |          |             |
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each network request]
