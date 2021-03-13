@@ -1,4 +1,4 @@
-# Cunies
+# Rocketship
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -8,7 +8,7 @@
 
 ## Overview
 ### Description
-Get live course and assignment updates from the [Blackboard REST API](https://developer.blackboard.com/), get live reminders and a schedule for your assignments, and a page for course information for a simpler experience with Blackboard courses.
+Using [Polygon API](https://polygon.io/), Rocketship
 
 ### App Evaluation
 - **Category:** Productivity and Education
